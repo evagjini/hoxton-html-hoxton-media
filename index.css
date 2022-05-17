@@ -1,0 +1,63 @@
+
+
+
+.header {
+  background-color: rgb(17, 51, 151);
+  width: 100%;
+  color: white;
+  padding: 15px 30px ;
+  
+
+}
+.logo{
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 20px;
+}
+.menu-item {
+margin-right: 10px;
+}
+
+.main { 
+  padding: 20px 20px;
+}
+
+.main-title{
+  text-transform: uppercase;
+  color: #8397ad;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+  
+
+
+.social-item {
+display: inline-block;
+border: 1px solid;
+margin-right: 30px;
+border-radius: 5px;
+box-shadow: 10px;
+}
+
+.paragraph{
+  color: #8397ad;
+}
+.subscribe{
+  border: 1px solid;
+  border-color:#917c28;
+  border-radius: 5 px;
+  color: #bca239;
+  padding: 10px 20px ;
+  box-shadow: 10px;
+}
+
+.footer {
+  padding-top: 20px  ;
+background-color: rgb(6, 24, 78);
+color: white;
+
+}
+
+
+
+}
